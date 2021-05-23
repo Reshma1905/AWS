@@ -1,9 +1,17 @@
-# Node Hello World
+# Node AWS Connect
 
-Simple node.js app that servers "hello world"
-
-Great for testing simple deployments to the cloud
+Node code to connect with AWS resources and fetch details
 
 ## Run It
 
+`npm start`
+
+
+## Installation
+
+`npm install`
+
+
+## Running the app
+# development
 `npm start`
